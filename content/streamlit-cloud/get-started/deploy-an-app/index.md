@@ -9,7 +9,7 @@ Streamlit Cloud lets you deploy your apps in just one click, and most apps will 
 
 ## Add your app to GitHub
 
-Streamlit Cloud launches apps directly from your GitHub repo, so your app code and dependencies need to be on GitHub before you try to deploy the app. See [App dependencies](/streamlit-cloud/get-started/deploy-an-app/app-dependencies) for more information.
+Streamlit Cloud launches apps directly from your (public) GitHub repo, so your app code and dependencies need to be on GitHub before you try to deploy the app. See [App dependencies](/streamlit-cloud/get-started/deploy-an-app/app-dependencies) for more information.
 
 ## Deploy your app
 
